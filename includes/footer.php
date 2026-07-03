@@ -20,7 +20,7 @@
     </div>
   </div>
   <div class="footer-bottom">
-    <span>&copy; <?php echo date('Y'); ?> Healthy Life Nutrition. All rights reserved.</span>
+    <span>&copy; <?php echo date('Y'); ?> Global NextCode. All rights reserved.</span>
     <span>Evidence-based nutrition, personal coaching.</span>
   </div>
 </footer>
